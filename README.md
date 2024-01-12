@@ -1,3 +1,7 @@
+### Downloa
+[chrome](build-zip/1.28.25/automa-chrome-v1.28.25.zip)
+
+
 <img src="src/assets/images/icon-128.png" width="64"/>
 
 # Automa
